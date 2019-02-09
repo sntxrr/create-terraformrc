@@ -16,3 +16,5 @@ credentials "app.terraform.io" {
   token = "$TF_ENV_TOKEN"
 }
 EOM
+
+/bin cat .terraformrc
