@@ -17,4 +17,4 @@ credentials "app.terraform.io" {
 }
 EOM
 
-/bin cat .terraformrc
+/bin/cat .terraformrc
